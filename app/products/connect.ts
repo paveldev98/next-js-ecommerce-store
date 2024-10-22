@@ -1,4 +1,3 @@
-// eslint-disable-next-line import-x/no-unresolved
 import 'server-only';
 import postgres, { type Sql } from 'postgres';
 import { postgresConfig, setEnvironmentVariables } from '../../util/config';
